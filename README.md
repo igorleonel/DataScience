@@ -16,6 +16,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, M
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/igorleonel/)
 * [Medium](https://medium.com/@igorleonelborba)
+* [Notion](https://quickest-egg-336.notion.site/Igor-Leonel-56584b6cca804e35a9fc9b75bc5a8ec6)
 
 ## Projetos:
 
