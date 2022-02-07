@@ -129,7 +129,9 @@ st.sidebar.markdown("- [Github](https://github.com/igorleonel)")
 st.sidebar.markdown("- [Medium](https://medium.com/@igorleonelborba)")
 
 
-
+st.sidebar.markdown('\n')
+st.sidebar.markdown('\n')
+st.sidebar.markdown('Acesso o código: [GitHub](https://github.com/igorleonel/DataScience/blob/main/Streamlit_Airbnb.py)')
 
 
 
