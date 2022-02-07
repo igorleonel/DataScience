@@ -3,6 +3,7 @@ import pandas as pd
 import pydeck as pdk
 from PIL import Image
 import plotly.express as px
+continue
 import time
 
 # Adicionando uma imagem
