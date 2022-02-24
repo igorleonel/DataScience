@@ -21,7 +21,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, M
 ## Projetos:
 
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **[Analisando os dados do Airbnb - Barcelona](https://github.com/igorleonel/DataScience/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)**
 
 
 ---
