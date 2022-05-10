@@ -23,7 +23,7 @@ Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, M
 
 * **[Analisando os dados do Airbnb - Barcelona](https://github.com/igorleonel/DataScience/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)**
 * **[Análise do Suicídio no Brasil](https://github.com/igorleonel/DataScience/blob/main/An%C3%A1lise_do_suic%C3%ADdio_no_Brasil_com_Data_Science.ipynb)**
-
+* **[Regressão Linear e Testes de Hipóteses nos atletas olímpicos](https://github.com/igorleonel/DataScience/blob/main/Analisando_as_olimpiadas.ipynb)**
 ---
 
 
