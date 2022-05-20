@@ -7,9 +7,15 @@
 # Igor Leonel
 <sub>*Estudante de ciência de dados*</sub>
 
-Tecnólogo em Ciência de dados na Universidade de João Pessoa (Unipê) e atuante na área de análise de dados. Com formações em Power BI, B.I, Python, SQL Serve e metodologias ágeis. Construo painéis e relatórios analíticos poderosos, seguindo as melhores práticas, desde o levantamento de requisitos até a publicação online e análise dos dados, utilizando técnicas de Data Storytelling em busca da melhor solução para os usuários. 
+Tecnólogo em Ciência de dados na Universidade de João Pessoa e atuante na área de análise de dados com formações em Business intelligence, Python, SQL Serve, Power BI e metodologias ágeis. Tenho experiência na construção de painéis e relatórios analíticos poderosos, seguindo as melhores práticas desde o levantamento de requisitos até a publicação online e análise dos dados utilizando técnicas de Data Storytelling em busca da melhor solução para os usuários. 
 
-Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning, Inovações e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises. Essa vontade de agregar valor à sociedade me trouxe o anseio de transformar os desafios vividos em solução para problemas de outras pessoas. Assim, com alguns amigos desenvolvemos nossa própria Startup - a D.grau - uma plataforma de orientação profissional para jovens. Estamos atualmente inscritos em diversos programas de pré-aceleração.
+Como cientista de dados, estou em constante busca pelo aprimoramento dos meus conhecimentos e habilidades em Estatística, Machine Learning e Data Science; Com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles. 
+
+Ao longo dessa jornada pude compor um time fantástico de pesquisa na área de ciência de dados da SporeData, uma empresa que projeta e conduz pesquisas sobre políticas de saúde nos principais centros acadêmicos mundo, utilizando das melhores tecnologias e ferramentas para análise de dados.
+
+Como empreendedor, participei dos mais importantes programas de pré-aceleração e incubação de startups do estado do Ceará, Brasil, juntamente com uma equipe formada por pessoas de diversas áreas e com só um objetivo: Resolver o problema da dificuldade na escolha profissional enfrentado por estudantes brasileiros do ensino médio.
+
+Trago dessa experiência habilidades como a capacidade de estruturar uma equipe do absoluto zero em gerenciamento de projetos à adoção de metodologias ágeis para otimizar suas operações e liderança para conduzir projetos que requerem desde a coleta dos dados brutos até sua eventual análise.
 
 **Conhecimento técnico:** Python, SQL, Power BI and Machine Learning.
 
