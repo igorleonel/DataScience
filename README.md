@@ -5,7 +5,7 @@
 </p>
 
 # Igor Leonel
-<sub>*Estudante de ciência de dados*</sub>
+<sub>*Data Scientist*</sub>
 
 Tecnólogo em Ciência de dados na Universidade de João Pessoa e atuante na área de análise de dados com formações em Business intelligence, Python, SQL Serve, Power BI e metodologias ágeis. Tenho experiência na construção de painéis e relatórios analíticos poderosos, seguindo as melhores práticas desde o levantamento de requisitos até a publicação online e análise dos dados utilizando técnicas de Data Storytelling em busca da melhor solução para os usuários. 
 
