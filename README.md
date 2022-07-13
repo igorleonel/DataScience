@@ -31,6 +31,7 @@ Trago dessa experiência habilidades como a capacidade de estruturar uma equipe 
 * **[Análise do Suicídio no Brasil](https://github.com/igorleonel/DataScience/blob/main/An%C3%A1lise_do_suic%C3%ADdio_no_Brasil_com_Data_Science.ipynb)**
 * **[Regressão Linear e Testes de Hipóteses nos atletas olímpicos](https://github.com/igorleonel/DataScience/blob/main/Analisando_as_olimpiadas.ipynb)**
 * **[Corretor Ortográfico em Python: aplicando técnicas de NLP](https://github.com/igorleonel/DataScience/blob/main/Corretor_Ortogr%C3%A1fico_em_Python_aplicando_t%C3%A9cnicas_de_NLP.ipynb)**
+* **[Classificação de Roupas usando Deep Learning](https://github.com/igorleonel/DataScience/blob/main/Aula_009_Classifica%C3%A7%C3%A3o_de_Roupas_usando_Deep_Learning.ipynb)**
 ---
 
 
